@@ -13,6 +13,12 @@ Nepali Connect is a chat application built with Flutter and Java that allows use
 
 - Flutter: A framework for building cross-platform mobile applications.
 - Java: A programming language used for the server-side backend.
+## Images
+<img src="https://github.com/bot-alert/nepali-connect/blob/main/gitimage/Screenshot_1678357951.png" width="250" height="500">
+<img src="https://github.com/bot-alert/nepali-connect/blob/main/gitimage/Screenshot_1678357954.png" width="250" height="500">
+<img src="https://github.com/bot-alert/nepali-connect/blob/main/gitimage/Screenshot_1678357977.png" width="250" height="500">
+<img src="https://github.com/bot-alert/nepali-connect/blob/main/gitimage/Screenshot_1678358108.png" width="250" height="500">
+<img src="https://github.com/bot-alert/nepali-connect/blob/main/gitimage/Screenshot_1678358113.png" width="250" height="500">
 
 ## Getting started
 
