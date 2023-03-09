@@ -5,8 +5,6 @@ Nepali Connect is a chat application built with Flutter and Java that allows use
 ## Features
 
 - User authentication: Users can create accounts and log in to access the chat functionality.
-- Real-time chat: Users can send and receive messages in real-time.
-- Push notifications: Users receive push notifications when they receive new messages.
 - User profile: Users can update their profile information and profile picture.
 
 ## Technologies used
